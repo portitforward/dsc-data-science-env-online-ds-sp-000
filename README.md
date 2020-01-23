@@ -9,7 +9,7 @@ You will be able to:
 * Install a professional data science environment
 
 ## What Tools do Professional Data Scientists Use?
-* **Python** - There are many languages that can be used for data science, but these days most data scientists are using Python to write their code.
+* **Python** - Their are many languages that can be used for data science, but these days most data scientists are using Python to write their code.
 * **Jupyter Notebook** - Most of those data scientists use Jupyter Notebook for writing their Python. Jupyter Notebook is a tool that allows you to mix comments in-between your code snippets so you can document and share your thinking process and make it easier for others to review, replicate and expand on your work. It's also what we're using for almost all of our lessons in this course!
 * **Anaconda** - Anaconda is one of the most popular ways for data scientists to install Python and Jupyter Notebook on their computers. It also provides package management and virtual environments so you can get all the latest data science tools running like NumPy, SciPy, and Tensorflow, and so you can use different versions of Python and your packages for different projects without them conflicting with each other.
 * **Git** - Git is a version control system. It’s a way of keeping track of all the changes made across your project. Think of it like “track changes” in Word - but with the ability to track changes across multiple documents. At Flatiron School, we use Git to keep track of all of the lessons we create and all the changes we make to them.
